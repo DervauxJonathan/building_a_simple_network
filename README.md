@@ -34,4 +34,4 @@
 
 ## Responsible Party
 
-- **Responsible**: Yourself
+- **Responsible**: Myself
