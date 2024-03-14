@@ -30,7 +30,7 @@
 
 ## Access
 
-- Users can access the web via the hosts (www.google.com).
+- Users can access the web via the url (www.google.com).
 
 ## Responsible Party
 
